@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.39e2a3ce.chunk.css",
+    "main.css": "./static/css/main.67dedf32.chunk.css",
     "main.js": "./static/js/main.02728466.chunk.js",
     "main.js.map": "./static/js/main.02728466.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.25dcfdec.js",
@@ -12,7 +12,7 @@
     "static/js/3.7b6c9923.chunk.js.map": "./static/js/3.7b6c9923.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.0052d972.chunk.css.map": "./static/css/2.0052d972.chunk.css.map",
-    "static/css/main.39e2a3ce.chunk.css.map": "./static/css/main.39e2a3ce.chunk.css.map",
+    "static/css/main.67dedf32.chunk.css.map": "./static/css/main.67dedf32.chunk.css.map",
     "static/js/2.58522098.chunk.js.LICENSE.txt": "./static/js/2.58522098.chunk.js.LICENSE.txt",
     "static/media/App.css": "./static/media/Deepesh.6b8f4066.jpg",
     "static/media/mdb.css": "./static/media/arrow_right.0897f985.svg",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.25dcfdec.js",
     "static/css/2.0052d972.chunk.css",
     "static/js/2.58522098.chunk.js",
-    "static/css/main.39e2a3ce.chunk.css",
+    "static/css/main.67dedf32.chunk.css",
     "static/js/main.02728466.chunk.js"
   ]
 }
